@@ -6,4 +6,7 @@ Currently I am pursuing Masters of Information Technology from University of Mel
 I am an Android Enthusiast and like to build mobile apps which are user friendly and solves day-to-day problems.
 
    ![Yateen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjc20&show_icons=true&theme=radical)
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjc20)](https://github.com/yjc20/github-readme-stats)
+
 
